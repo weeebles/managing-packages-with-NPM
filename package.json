@@ -1,5 +1,5 @@
 {
-	"author": "weeebles", 
+	"author": "weeebles",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -8,9 +8,11 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"engines": {
+		"node": "14.17.6"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
 }
-

@@ -1,5 +1,6 @@
 {
 	"author": "weeebles",
+	"description": "A web app that teaches new people to make useful contributions.",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"

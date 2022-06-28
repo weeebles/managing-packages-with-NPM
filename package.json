@@ -7,7 +7,7 @@
 	"keywords": ["weeebles", "freecodecamp", "Teach me how to program"], 
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.26.0"
 	},
 	"main": "server.js",
 	"scripts": {

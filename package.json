@@ -2,7 +2,7 @@
 	"author": "weeebles",
 	"description": "A web app that teaches new people to make useful contributions.",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [weeebles", "freecodecamp", "Teach me how to program"], 
+	"keywords": ["weeebles", "freecodecamp", "Teach me how to program"], 
 	"dependencies": {
 		"express": "^4.14.0"
 	},

@@ -4,10 +4,14 @@
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
 	"version": "1.0.0",
-	"keywords": ["weeebles", "freecodecamp", "Teach me how to program"], 
+	"keywords": [
+		"weeebles",
+		"freecodecamp",
+		"Teach me how to program"
+	],
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.26.0"
+		"moment": "^2.29.3"
 	},
 	"main": "server.js",
 	"scripts": {

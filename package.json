@@ -3,7 +3,7 @@
 	"description": "A web app that teaches new people to make useful contributions.",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
-	"version": "1.0",
+	"version": "1.0.0",
 	"keywords": ["weeebles", "freecodecamp", "Teach me how to program"], 
 	"dependencies": {
 		"express": "^4.14.0"

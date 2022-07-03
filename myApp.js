@@ -52,7 +52,7 @@ app.get("/now", (req, res, next) => {
   res.json({ time: req.time });
 })
 
-app.get("/:word/echo", function(req, res) {
+app.get("/:word/echo", (req, res) => {
     res.json({ echo: req.params.word });
 });
 
